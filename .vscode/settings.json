@@ -3,5 +3,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll": true
-  }
+  },
+  "editor.cursorStyle": "line-thin",
+  "editor.cursorBlinking": "blink"
 }
