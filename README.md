@@ -1,32 +1,32 @@
 # Clone TabNews
 
-Implementação de um clone do [TabNews](https://www.tabnews.com.br/)
+Implementation of a clone of [TabNews](https://www.tabnews.com.br/).
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-As principais tecnologias utilizadas até o momento são:
+The main technologies used so far are:
 
-- **JavaScript** — linguagem principal do projeto
-- **Node.js** — ambiente de execução
-- **Next.js** — framework utilizado para desenvolvimento da aplicação web
-- **React** — biblioteca utilizada na construção da interface
-- **npm** — gerenciamento de dependências
-- **Prettier** — formatação e padronização do código
-- **Git** — controle de versão
-- **GitHub** — hospedagem e gerenciamento do repositório
+- **JavaScript** — main programming language
+- **Node.js** — runtime environment
+- **Next.js** — framework used for web application development
+- **React** — library used to build the user interface
+- **npm** — dependency management
+- **Prettier** — code formatting and standardization
+- **Git** — version control
+- **GitHub** — repository hosting and management
 
-## 🚀 Executando o projeto
+## 🚀 Running the Project
 
-### Pré-requisitos
+### Prerequisites
 
-Para executar o projeto localmente, é necessário ter instalado:
+To run the project locally, you need to have the following installed:
 
 - [Node.js](https://nodejs.org/)
 - npm
 
-### Instalação
+### Installation
 
-Clone o repositório:
+Clone the repository:
 
 ```bash
 git clone https://github.com/FernandesManu/Clone_TabNews.git
