@@ -30,3 +30,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/FernandesManu/Clone_TabNews.git
+```
